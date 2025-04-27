@@ -1,6 +1,9 @@
 🛒 Project Overview
+
 Name: ShopCart
+
 Author: suruthipriyak6
+
 Description:  A minimalist e-commerce web application prototype.
 
 Frontend:
