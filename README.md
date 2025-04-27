@@ -33,6 +33,7 @@ templates/: Likely includes HTML templates for rendering dynamic content.
 .gitattributes: Git configuration file for defining attributes per path.
 
 package.json: Defines project metadata and lists dependencies.
+
 ✅ Functionalities
 Given the repository's structure and naming conventions, the application likely includes:​
 
