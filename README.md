@@ -23,16 +23,7 @@ Version Control:
 
 Git
 📁 Project Structure
-shopcart/
-├── app.py
-├── requirements.txt
-├── Procfile
-├── static/
-│   └── style.css
-└── templates/
-    ├── index.html
-    ├── cart.html
-    └── checkout.html
+
 backend/: Presumably contains server-side logic and API endpoints.
 
 frontend/: Houses client-side resources such as HTML, CSS, and JavaScript files.
